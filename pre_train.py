@@ -1,4 +1,3 @@
-%%writefile pre_train.py
 import torch
 import torch.nn.functional as F
 from vengpt.gpt import VenGPT
